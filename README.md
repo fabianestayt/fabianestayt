@@ -7,9 +7,13 @@ I've got knowledge in Python, I've been using it since 2017 for operative invest
 
 Recently I've been working in personal projects using Python as a software development language, using it for backend coding and complementing it with HTML, CSS and JavaScript for frontend using React.
 
-Also, I have a Data Sciente & Machine Learning certification, obtained in Coding Dojo.
+Also, I have a Data Science & Machine Learning certification, obtained in Coding Dojo.
 
 Thanks for reading! I hope to get my first tech job soon, so I can make a job out of my all life hobby.
+
+You can reach me out via linkedin or email: fabianestayt@gmail.com.
+
+Greetings.
 
 <!--
 **fabianestayt/fabianestayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
